@@ -1,0 +1,22 @@
+[
+  {
+    "repository":  "AICP/packages_apps_PixelParts",
+    "target_path": "packages/apps/PixelParts",
+    "branch":      "w16.2"
+  },
+  {
+    "repository":  "LineageOS/android_device_google_gs-common",
+    "target_path": "device/google/gs-common",
+    "branch":      "lineage-23.2"
+  },
+  {
+    "repository":  "LineageOS/android_device_google_laguna",
+    "target_path": "device/google/laguna",
+    "branch":      "lineage-23.2"
+  },
+  {
+    "repository":  "LineageOS/android_device_google_muzel-kernels",
+    "target_path": "device/google/muzel-kernels",
+    "branch":      "lineage-23.2"
+  }
+]
